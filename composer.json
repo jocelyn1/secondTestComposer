@@ -7,7 +7,7 @@
   "repositories": [
     {
       "type": "git",
-      "url": "git@github.com:jocelyn1/testcomposer.git"
+      "url": "https://github.com/jocelyn1/testcomposer.git"
     }
   ]
 }
