@@ -2,6 +2,6 @@
   "name": "test/secondComposer",
   "minimum-stability": "dev",
   "require": {
-    "monolog/monolog": "dev-master"
+    "monolog/monolog": "*"
   }
 }
