@@ -2,7 +2,7 @@
   "name": "test/ddd",
   "minimum-stability": "dev",
   "require": {
-    "jocelyn1/testcomposer": "dev-decathlon"
+    "jocelyn1/testcomposer": "dev-master"
   },
   "repositories": [
     {
