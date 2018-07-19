@@ -1,13 +1,7 @@
 {
-  "name": "test/ddd",
+  "name": "test/secondComposer",
   "minimum-stability": "dev",
   "require": {
-    "jocelyn1/testcomposer": "dev-master"
-  },
-  "repositories": [
-    {
-      "type": "git",
-      "url": "https://github.com/jocelyn1/testcomposer.git"
-    }
-  ]
+    "monolog/monolog": "dev-master"
+  }
 }
